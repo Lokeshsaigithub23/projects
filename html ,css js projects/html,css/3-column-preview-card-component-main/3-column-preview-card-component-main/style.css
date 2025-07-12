@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+
+#left{
+    border: 2px solid hsl(31, 77%, 52%);
+    background-color: hsl(31, 77%, 52%);
+    height: 350px;
+    width: 230px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    padding: 3rem;
+   
+    
+}
+#mid{
+    border: 2px solid hsl(184, 100%, 22%);
+    background-color: hsl(184, 100%, 22%);
+    height: 350px;
+    width: 230px;
+    justify-content: space-around; 
+    padding: 3rem;
+}
+#right{
+    border: 2px solid hsl(179, 100%, 13%);
+    background-color: hsl(179, 100%, 13%);
+    height: 350px;
+    width: 230px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+    justify-content: space-around; 
+    padding: 3rem;
+    
+}
+h1{
+    color: white;
+}
+.heading>p
+{
+    color: white;
+}
+#bg{
+   
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    --lexend-ceda: "Lexend Deca", sans-serif;
+    font-family: var(--lexend-ceda);
+    
+}
+#btnleft {
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 30px;
+    color:hsl(31, 77%, 52%) ;
+}
+#btnmid {
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 30px;
+    color:hsl(184, 100%, 22%) ;
+}
+#btnright {
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 30px;
+    color:hsl(179, 100%, 13%) ;
+}
+
+
