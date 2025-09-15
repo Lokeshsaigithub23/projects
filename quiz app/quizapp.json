@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answer": "Paris"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": "Mars"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": ["Elephant", "Giraffe", "Blue Whale", "Great White Shark"],
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "Which language is used to create web pages?",
+    "options": ["Python", "HTML", "C++", "Java"],
+    "answer": "HTML"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Newton", "Einstein", "Tesla", "Edison"],
+    "answer": "Newton"
+  },
+  {
+    "question": "Which continent is the Sahara Desert located in?",
+    "options": ["Asia", "Africa", "Australia", "Europe"],
+    "answer": "Africa"
+  },
+  {
+    "question": "How many continents are there?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "options": ["90°C", "100°C", "110°C", "120°C"],
+    "answer": "100°C"
+  },
+  {
+    "question": "Which planet has rings?",
+    "options": ["Venus", "Saturn", "Earth", "Mars"],
+    "answer": "Saturn"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Shakespeare", "Charles Dickens", "Hemingway", "J.K. Rowling"],
+    "answer": "Shakespeare"
+  },
+  {
+    "question": "Which country is famous for the Taj Mahal?",
+    "options": ["India", "China", "Egypt", "Nepal"],
+    "answer": "India"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "O2", "CO2", "HO"],
+    "answer": "H2O"
+  },
+  {
+    "question": "Which animal is known as the King of the Jungle?",
+    "options": ["Elephant", "Tiger", "Lion", "Cheetah"],
+    "answer": "Lion"
+  },
+  {
+    "question": "Which organ pumps blood through the body?",
+    "options": ["Lungs", "Brain", "Heart", "Kidneys"],
+    "answer": "Heart"
+  },
+  {
+    "question": "What is the square root of 64?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "options": ["6", "8", "10", "12"],
+    "answer": "8"
+  },
+  {
+    "question": "What color do you get when you mix red and white?",
+    "options": ["Pink", "Purple", "Orange", "Brown"],
+    "answer": "Pink"
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "options": ["Indian", "Arctic", "Pacific", "Atlantic"],
+    "answer": "Pacific"
+  }
+]
